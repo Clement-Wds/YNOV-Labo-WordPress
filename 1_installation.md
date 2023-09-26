@@ -23,4 +23,4 @@ Documentation disponible sur : https://doc.ubuntu-fr.org/lamp
 - Assurez-vous que les fichiers sont bien dans le répertoire racine /www/wordpress
 - Vous pouvez renommer le répertoire wordpress par le nom de votre choix
 
-Et voilà votre environnement de développement est prêt et WordPress installer sur votre machine. Prochaine étape, la configuration de WordPress !
+Et voilà votre environnement de développement est prêt et WordPress installé sur votre machine. Prochaine étape, la configuration de WordPress !
