@@ -10,7 +10,7 @@ Extraire l'archive, vous pouvez ensuite renommer le nom du répertoire wordpress
 
 ## Configuration de la base de données
 Lancer PHPMyAdmin depuis Wamp, Mamp, Lamp puis créer une base de donnée avec les paramètres suivants : 
-<br>
+
 <img width="342" alt="image" src="https://github.com/Clement-Wds/YNOV-Labo-WordPress/assets/71884576/0ba09adf-2179-4dc6-891e-a85150cf5726">
 
 Ouvrez ensuite le répertoire de votre site wordpress avec un éditeur de code.
